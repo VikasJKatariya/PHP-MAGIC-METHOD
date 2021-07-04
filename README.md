@@ -1,2 +1,2 @@
-# Test
+# php magic methods
 test
